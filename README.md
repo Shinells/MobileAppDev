@@ -60,8 +60,9 @@ Check current balances and basic account details
 Transaction History
 View a list of recent transactions (stored in-memory for demo purposes)
 Includes details like transaction title, date, and amount (color-coded for debit/credit)
-Challenges Faced & Lessons Learned
 
+
+Challenges Faced & Lessons Learned
 Recreating the look and feel of a real banking app required close attention to detail and UI hierarchy
 Managing state using setState() helped reinforce understanding of how Flutter widgets rebuild and update
 Named routing improved understanding of Flutter navigation structure
